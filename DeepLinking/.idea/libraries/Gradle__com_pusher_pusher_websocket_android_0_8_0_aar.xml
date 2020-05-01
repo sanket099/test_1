@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pusher:pusher-websocket-android:0.8.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/476226f419243e83ba249e9542046f5a/jetified-pusher-websocket-android-0.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/476226f419243e83ba249e9542046f5a/jetified-pusher-websocket-android-0.8.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pusher/pusher-websocket-android/0.8.0/c4d096a55c079f8078a2dcb436efedaed092a65b/pusher-websocket-android-0.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

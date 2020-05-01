@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.doodle.android:android-material-chips:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01a3748f3d4bfad81c8a8be5de25799f/jetified-android-material-chips-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01a3748f3d4bfad81c8a8be5de25799f/jetified-android-material-chips-1.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.doodle.android/android-material-chips/1.1.0/e19c8cb88020a466c9a0a1f6f946b9b4583d5e0b/android-material-chips-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.doodle.android/android-material-chips/1.1.0/28b713b8b888975f1f97b212f2b07b9195e22dcb/android-material-chips-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

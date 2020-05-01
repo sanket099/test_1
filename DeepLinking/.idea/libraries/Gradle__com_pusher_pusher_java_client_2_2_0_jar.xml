@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pusher:pusher-java-client:2.2.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pusher/pusher-java-client/2.2.0/99774f21630493dd9a4b511a15378c21e7763803/pusher-java-client-2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pusher/pusher-java-client/2.2.0/3a817dff55e6db87a4750afec51b5128d24f9f93/pusher-java-client-2.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pusher/pusher-java-client/2.2.0/d085121a1b553753b75db063bb422891c7ab4e12/pusher-java-client-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
